@@ -1,0 +1,17 @@
+com\cg\Controller\UserController.class
+com\cg\Entity\User.class
+com\cg\Exception\EntryMismatchError.class
+com\cg\Service\UserServiceI.class
+com\cg\ServletInitializer.class
+com\cg\Dao\UserDaoImpl.class
+com\cg\Service\TestServiceI.class
+com\cg\Entity\Question.class
+com\cg\Entity\Test.class
+com\cg\Controller\UserControllerAdvice.class
+com\cg\Exception\EntryNotFoundException.class
+com\cg\Service\TestServiceImpl.class
+com\cg\Dao\UserDaoI.class
+com\cg\Dao\TestDaoI.class
+com\cg\OnlineTestApplication.class
+com\cg\Dao\TestDaoImpl.class
+com\cg\Service\UserServiceImpl.class
